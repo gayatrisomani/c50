@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+
+
+.c1{background-color: coral;
+  display:flex;
+  justify-content: space-evenly;
+}
+.m{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.c8{
+    display:flex;
+    justify-content: last baseline;
+}
+.c2{
+    text-align: center;
+}
